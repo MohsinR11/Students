@@ -9,17 +9,17 @@ Welcome to the E-Learning Performance Dashboard! 🚀 This Tableau project provi
 
 ## 🔑 Key Metrics
 
-👥 Total Students: 10,000  
+👥 ****Total Students****: 10,000  
 
-🎯 Average Final Score: 64.70  
+🎯 ****Average Final Score****: 64.70  
 
-⭐ Average Feedback Score: 3.013  
+⭐ ****Average Feedback Score****: 3.013  
 
-📝 Average Quiz Score: 64.58  
+📝 ****Average Quiz Score****: 64.58  
 
-⚠️ Dropout Rate: 19.57%  
+⚠️ ****Dropout Rate****: 19.57%  
 
-✅ Average Assignment Completion Rate: 69.55%
+✅ ****Average Assignment Completion Rate****: 69.55%
 
 ---
 
@@ -121,11 +121,11 @@ Bar chart showing forum activity by course and gender.
 
 Here’s a glimpse of the dashboard! 🖼️  
 
-### Page 1 Overview: ### ![image](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)
+**Page 1 Overview**: ![image](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)
 
-### Page 2 Overview: ### ![image](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)
+**Page 2 Overview**: ![image](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)
 
-### Page 3 Overview: ### ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
+**Page 3 Overview**: ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
 
 ---
 
