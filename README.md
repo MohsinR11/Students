@@ -102,11 +102,14 @@ The dashboard is packed with features to help you analyze student data. Use the 
 
 ## 🎨 Screenshots
 
-Here’s a glimpse of the dashboard in action! 🖼️  
+Here’s a glimpse of the dashboard! 🖼️  
 
-Page 1 Overview: ![Page 1]("C:\Users\mohsi\OneDrive\Pictures\Screenshots\Screenshot 2025-05-03 164656.png")
+Page 1 Overview: ![image](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)
 
-Additional Pages:Add screenshots for Page 2 and Page 3 in the screenshots folder and link them here.
+Page 2 Overview: ![image](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)
+
+Page 3 Overview: ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
+
 
 
 ## 🧩 Filters
