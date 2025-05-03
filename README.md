@@ -137,11 +137,11 @@ Customize your analysis with these filters:
 The dashboard is split into multiple pages for a comprehensive view:  
 
 
-🟢 Page 1: Core metrics and visualizations (see screenshot above).
+🟢 ***Page 1***: Core metrics and visualizations (see screenshot above).
 
-🟡 Page 2: Deeper analysis (add screenshot to view).  
+🟡 ***Page 2***: Deeper analysis (add screenshot to view).  
 
-🔴 Page 3: Supplementary insights (add screenshot to view).
+🔴 ***Page 3***: Supplementary insights (add screenshot to view).
 
 ---
 
@@ -163,13 +163,13 @@ Tableau Desktop or Tableau Public to view and interact with the dashboard.
 
 The dataset is preloaded in the workbook. To replicate, ensure your dataset includes:  
 
-Student demographics (gender, education level)  
+  - Student demographics (gender, education level)  
 
-Course details (quiz scores, feedback scores, time on videos, forum participation)  
+  - Course details (quiz scores, feedback scores, time on videos, forum participation)  
 
-Performance metrics (final scores, assignment completion rates, dropout rates)  
+  - Performance metrics (final scores, assignment completion rates, dropout rates)  
 
-Learning style preferences
+  - Learning style preferences
 
 ---
 
