@@ -36,11 +36,13 @@ See quiz scores across Undergraduate, High School, and Postgraduate levels.
 💡 ***Insight***: Postgraduate students lead with an average quiz score of 64.7394!
 
 
+
 ### 2. Learning Style Preference Analysis 🧠  
 
 Discover how students prefer to learn: Reading/Writing, Auditory, Visual, or Kinesthetic.
 
 📚 ***Fun Fact***: Reading/Writing learners are the most common (2,554 students), while Kinesthetic learners are the least (2,443).
+
 
 
 ### 3. Average Feedback Score by Course ⭐  
@@ -50,11 +52,13 @@ Compare feedback scores across courses like Python Basics, Machine Learning, and
 🌟 ***Highlight***: Python Basics shines with a feedback score of 3.05, while Web Development scores 2.97.
 
 
+
 ### 4. Gender Distribution of Students 👩‍🎓👨‍🎓  
 
 A pie chart breaking down the student population by gender.  
      
 ⚖️ ***Breakdown***: 4,886 Female, 4,699 Male, 415 Other.
+
 
 
 ### 5. Assignment Completion Rate by Learning Style ✅  
@@ -64,11 +68,13 @@ Bar chart showing completion rates for each learning style.
 🏆 ***Winner: Visual learners top the chart at 69.85%!
 
 
+
 ### 6. Average Time on Videos by Course ⏰  
 
 Check how much time students spend on videos, segmented by education level.  
 
 🎥 ***Notable***: Web Development students spend the most time (261.91 minutes on average).
+
 
 
 ### 7. Dropout Rate by Course 🚪  
@@ -78,11 +84,13 @@ See which courses have the highest dropout rates.
 ⚠️ ***Alert***: Cybersecurity has the highest dropout at 429 students.
 
 
+
 ### 8. Feedback vs Final Score 📈  
 
 Scatter plot showing the relationship between feedback and final scores.  
 
 🔍 ***Observation***: Most students cluster around a feedback score of 3.00 and final scores between 64.30–65.10.
+
 
 
 ### 9. Dropout Rate by Gender 📉  
@@ -92,11 +100,13 @@ Pie chart showing dropout rates by gender.
 📊 ***Stats***: Females at 19.24%, Males at 20.09%, and Other at 17.59%.
 
 
+
 ### 10. Learning Style vs Performance 📅  
 
 Line graph comparing performance across learning styles.  
 
 📈 ***Trend***: Kinesthetic learners show a performance peak!
+
 
 
 ### 11. Forum Participation Trends 💬  
@@ -111,11 +121,11 @@ Bar chart showing forum activity by course and gender.
 
 Here’s a glimpse of the dashboard! 🖼️  
 
-Page 1 Overview: ![image](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)
+### Page 1 Overview: ### ![image](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)
 
-Page 2 Overview: ![image](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)
+### Page 2 Overview: ### ![image](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)
 
-Page 3 Overview: ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
+### Page 3 Overview: ### ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
 
 ---
 
