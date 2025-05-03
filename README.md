@@ -104,7 +104,7 @@ The dashboard is packed with features to help you analyze student data. Use the 
 
 Here’s a glimpse of the dashboard in action! 🖼️  
 
-Page 1 Overview:Add the screenshot of Page 1 here by placing the image in the screenshots folder and updating the path.
+Page 1 Overview: "C:\Users\mohsi\OneDrive\Pictures\Screenshots\Screenshot 2025-05-03 164656.png"
 
 Additional Pages:Add screenshots for Page 2 and Page 3 in the screenshots folder and link them here.
 
