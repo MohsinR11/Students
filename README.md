@@ -9,17 +9,17 @@ Welcome to the E-Learning Performance Dashboard! 🚀 This Tableau project provi
 
 ## 🔑 Key Metrics
 
-👥 ****Total Students****: 10,000  
+👥 ****Total Students****: **10,000**  
 
-🎯 ****Average Final Score****: 64.70  
+🎯 ****Average Final Score****: **64.70**  
 
-⭐ ****Average Feedback Score****: 3.013  
+⭐ ****Average Feedback Score****: **3.013**  
 
-📝 ****Average Quiz Score****: 64.58  
+📝 ****Average Quiz Score****: **64.58**  
 
-⚠️ ****Dropout Rate****: 19.57%  
+⚠️ ****Dropout Rate****: **19.57%**  
 
-✅ ****Average Assignment Completion Rate****: 69.55%
+✅ ****Average Assignment Completion Rate****: **69.55%**
 
 ---
 
@@ -27,7 +27,9 @@ Welcome to the E-Learning Performance Dashboard! 🚀 This Tableau project provi
 
 The dashboard is packed with features to help you analyze student data. Use the filters to customize your view and explore the data in depth! 🕵️‍♀️
 
+
 ## 📊 Visualizations
+
 
 ### 1. Average Quiz Scores by Education Level 🎓  
 
