@@ -131,9 +131,9 @@ Customize your analysis with these filters:
 The dashboard is split into multiple pages for a comprehensive view:  
 
 
-🟢 ***Page 1***: Core metrics and visualizations (see screenshot above).
-🟡 ***Page 2***: Deeper analysis (add screenshot to view).  
-🔴 ***Page 3***: Supplementary insights (add screenshot to view).
+- 🟢 ***Page 1***: Core metrics and visualizations (see screenshot above).
+- 🟡 ***Page 2***: Deeper analysis (add screenshot to view).  
+- 🔴 ***Page 3***: Supplementary insights (add screenshot to view).
 
 ---
 
