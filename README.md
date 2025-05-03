@@ -1,4 +1,4 @@
-# 📚 E-Learning Performance Dashboard 🎓
+# **📚 E-Learning Performance Dashboard 🎓**
 
 
 ## 🌟 Overview
@@ -31,79 +31,79 @@ The dashboard is packed with features to help you analyze student data. Use the 
 
 ### 1. Average Quiz Scores by Education Level 🎓  
 
-     See quiz scores across Undergraduate, High School, and Postgraduate levels.  
-
-    💡 ***Insight***: Postgraduate students lead with an average quiz score of 64.7394!
+See quiz scores across Undergraduate, High School, and Postgraduate levels.  
+     
+💡 ***Insight***: Postgraduate students lead with an average quiz score of 64.7394!
 
 
 ### 2. Learning Style Preference Analysis 🧠  
 
-    Discover how students prefer to learn: Reading/Writing, Auditory, Visual, or Kinesthetic.
+Discover how students prefer to learn: Reading/Writing, Auditory, Visual, or Kinesthetic.
 
-    📚 ***Fun Fact***: Reading/Writing learners are the most common (2,554 students), while Kinesthetic learners are the least (2,443).
+📚 ***Fun Fact***: Reading/Writing learners are the most common (2,554 students), while Kinesthetic learners are the least (2,443).
 
 
 ### 3. Average Feedback Score by Course ⭐  
 
-     Compare feedback scores across courses like Python Basics, Machine Learning, and more.  
+Compare feedback scores across courses like Python Basics, Machine Learning, and more.  
     
-    🌟 Highlight: Python Basics shines with a feedback score of 3.05, while Web Development scores 2.97.
+🌟 ***Highlight***: Python Basics shines with a feedback score of 3.05, while Web Development scores 2.97.
 
 
 ### 4. Gender Distribution of Students 👩‍🎓👨‍🎓  
 
-     A pie chart breaking down the student population by gender.  
+A pie chart breaking down the student population by gender.  
      
-    ⚖️ Breakdown: 4,886 Female, 4,699 Male, 415 Other.
+⚖️ ***Breakdown***: 4,886 Female, 4,699 Male, 415 Other.
 
 
 ### 5. Assignment Completion Rate by Learning Style ✅  
 
-    Bar chart showing completion rates for each learning style.  
+Bar chart showing completion rates for each learning style.  
 
-    🏆 Winner: Visual learners top the chart at 69.85%!
+🏆 ***Winner: Visual learners top the chart at 69.85%!
 
 
 ### 6. Average Time on Videos by Course ⏰  
 
-    Check how much time students spend on videos, segmented by education level.  
+Check how much time students spend on videos, segmented by education level.  
 
-    🎥 Notable: Web Development students spend the most time (261.91 minutes on average).
+🎥 ***Notable***: Web Development students spend the most time (261.91 minutes on average).
 
 
 ### 7. Dropout Rate by Course 🚪  
 
-    See which courses have the highest dropout rates.  
+See which courses have the highest dropout rates.  
 
-    ⚠️ Alert: Cybersecurity has the highest dropout at 429 students.
+⚠️ ***Alert***: Cybersecurity has the highest dropout at 429 students.
 
 
 ### 8. Feedback vs Final Score 📈  
 
-    Scatter plot showing the relationship between feedback and final scores.  
+Scatter plot showing the relationship between feedback and final scores.  
 
-    🔍 Observation: Most students cluster around a feedback score of 3.00 and final scores between 64.30–65.10.
+🔍 ***Observation***: Most students cluster around a feedback score of 3.00 and final scores between 64.30–65.10.
 
 
 ### 9. Dropout Rate by Gender 📉  
 
-    Pie chart showing dropout rates by gender.  
+Pie chart showing dropout rates by gender.  
 
-    📊 Stats: Females at 19.24%, Males at 20.09%, and Other at 17.59%.
+📊 ***Stats***: Females at 19.24%, Males at 20.09%, and Other at 17.59%.
 
 
 ### 10. Learning Style vs Performance 📅  
 
-    Line graph comparing performance across learning styles.  
+Line graph comparing performance across learning styles.  
 
-    📈 Trend: Kinesthetic learners show a performance peak!
+📈 ***Trend***: Kinesthetic learners show a performance peak!
 
 
 ### 11. Forum Participation Trends 💬  
 
-    Bar chart showing forum activity by course and gender.  
+Bar chart showing forum activity by course and gender.  
     
-    🗣️ Engagement: Cybersecurity leads with 25,346 male posts, while Web Development has 23,109 female posts.
+🗣️ ***Engagement***: Cybersecurity leads with 25,346 male posts, while Web Development has 23,109 female posts.
 
 ---
 
@@ -124,11 +124,11 @@ Page 3 Overview: ![image](https://github.com/user-attachments/assets/ea44b313-fe
 Customize your analysis with these filters:  
 
 
-👤 Gender: All, Male, Female, or Other  
+👤 ***Gender***: All, Male, Female, or Other  
 
-📚 Course Name: All, Python Basics, Machine Learning, Data Science, Cybersecurity, Web Development  
+📚 ***Course Name***: All, Python Basics, Machine Learning, Data Science, Cybersecurity, Web Development  
 
-🎓 Education Level: All, Undergraduate, High School, Postgraduate
+🎓 ***Education Level***: All, Undergraduate, High School, Postgraduate
 
 ---
 
@@ -147,13 +147,13 @@ The dashboard is split into multiple pages for a comprehensive view:
 
 ## 🚀 Usage
 
-Open the Dashboard: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
+***Open the Dashboard***: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂  
 
-Apply Filters: Use the dropdowns to filter by Gender, Course Name, or Education Level. 🎛️  
+***Apply Filters***: Use the dropdowns to filter by Gender, Course Name, or Education Level. 🎛️  
 
-Navigate Pages: Switch between Page 1, Page 2, and Page 3 using the buttons. 📑  
+***Navigate Pages***: Switch between Page 1, Page 2, and Page 3 using the buttons. 📑  
 
-Interact: Hover over charts for details or click to drill down. 🖱️
+***Interact***: Hover over charts for details or click to drill down. 🖱️
 
 ---
 
@@ -175,7 +175,7 @@ Learning style preferences
 
 ## 🤝 Contributing
 
-Love this dashboard? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
+**Love this dashboard?** Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
 
 ---
 
