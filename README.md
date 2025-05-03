@@ -33,14 +33,14 @@ The dashboard is packed with features to help you analyze student data. Use the 
 
      See quiz scores across Undergraduate, High School, and Postgraduate levels.  
 
-    💡 Insight: Postgraduate students lead with an average quiz score of 64.7394!
+    💡 ***Insight***: Postgraduate students lead with an average quiz score of 64.7394!
 
 
 ### 2. Learning Style Preference Analysis 🧠  
 
     Discover how students prefer to learn: Reading/Writing, Auditory, Visual, or Kinesthetic.
 
-    📚 Fun Fact: Reading/Writing learners are the most common (2,554 students), while Kinesthetic learners are the least (2,443).
+    📚 ***Fun Fact***: Reading/Writing learners are the most common (2,554 students), while Kinesthetic learners are the least (2,443).
 
 
 ### 3. Average Feedback Score by Course ⭐  
