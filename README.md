@@ -5,16 +5,23 @@
 
 Welcome to the E-Learning Performance Dashboard! 🚀 This Tableau project provides a deep dive into student performance, engagement, and course effectiveness in an online learning platform. It tracks data for 10,000 students across various courses, education levels, and learning styles, delivering insights through stunning visualizations. 📊
 
+---
 
 ## 🔑 Key Metrics
 
 👥 Total Students: 10,000  
+
 🎯 Average Final Score: 64.70  
+
 ⭐ Average Feedback Score: 3.013  
+
 📝 Average Quiz Score: 64.58  
+
 ⚠️ Dropout Rate: 19.57%  
+
 ✅ Average Assignment Completion Rate: 69.55%
 
+---
 
 ## 🛠️ Dashboard Features
 
@@ -98,9 +105,9 @@ The dashboard is packed with features to help you analyze student data. Use the 
     
     🗣️ Engagement: Cybersecurity leads with 25,346 male posts, while Web Development has 23,109 female posts.
 
+---
 
-
-## 🎨 Screenshots
+## 🎨 Screenshot:
 
 Here’s a glimpse of the dashboard! 🖼️  
 
@@ -110,7 +117,7 @@ Page 2 Overview: ![image](https://github.com/user-attachments/assets/f00d1805-49
 
 Page 3 Overview: ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
 
-
+---
 
 ## 🧩 Filters
 
@@ -123,6 +130,7 @@ Customize your analysis with these filters:
 
 🎓 Education Level: All, Undergraduate, High School, Postgraduate
 
+---
 
 ## 📄 Pages
 
@@ -135,6 +143,7 @@ The dashboard is split into multiple pages for a comprehensive view:
 
 🔴 Page 3: Supplementary insights (add screenshot to view).
 
+---
 
 ## 🚀 Usage
 
@@ -146,6 +155,7 @@ Navigate Pages: Switch between Page 1, Page 2, and Page 3 using the buttons. �
 
 Interact: Hover over charts for details or click to drill down. 🖱️
 
+---
 
 ## ⚙️ Requirements
 
@@ -161,8 +171,18 @@ Performance metrics (final scores, assignment completion rates, dropout rates)
 
 Learning style preferences
 
-
+---
 
 ## 🤝 Contributing
 
 Love this dashboard? Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
+
+---
+
+## 🌟 About Me
+
+Hi there! I'm **Mohsin Raza**. I’m an aspiring Data Analyst/Data Engineer.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
