@@ -1,174 +1,158 @@
-# **📚 E-Learning Performance Dashboard 🎓**
-
-
-## 🌟 Overview
-
-Welcome to the E-Learning Performance Dashboard! 🚀 This Tableau project provides a deep dive into student performance, engagement, and course effectiveness in an online learning platform. It tracks data for 10,000 students across various courses, education levels, and learning styles, delivering insights through stunning visualizations. 📊
+# 📚 **E-Learning Performance Dashboard** 🎓
 
 ---
 
-## 🔑 Key Metrics
-
-- 👥 ****Total Students****: **10,000**  
-- 🎯 ****Average Final Score****: **64.70**  
-- ⭐ ****Average Feedback Score****: **3.013**  
-- 📝 ****Average Quiz Score****: **64.58**  
-- ⚠️ ****Dropout Rate****: **19.57%**  
-- ✅ ****Average Assignment Completion Rate****: **69.55%**
+Welcome to the **E-Learning Performance Dashboard!** 🚀  
+This **Tableau project** provides a deep dive into **student performance, engagement, and course effectiveness** on an online learning platform.  
+It tracks **10,000 students** across multiple **courses, education levels, and learning styles**, delivering actionable insights through stunning visuals. 📊
 
 ---
 
-## 🛠️ Dashboard Features
+## 🔑 **Key Metrics**
 
-The dashboard is packed with features to help you analyze student data. Use the filters to customize your view and explore the data in depth! 🕵️‍♀️
-
-
-## 📊 Visualizations
-
-
-### 1. Average Quiz Scores by Education Level 🎓  
-
-- See quiz scores across Undergraduate, High School, and Postgraduate levels.  
-- 💡 ***Insight***: Postgraduate students lead with an average quiz score of 64.7394!
-
-
-
-### 2. Learning Style Preference Analysis 🧠  
-
-- Discover how students prefer to learn: Reading/Writing, Auditory, Visual, or Kinesthetic.
-- 📚 ***Fun Fact***: Reading/Writing learners are the most common (2,554 students), while Kinesthetic learners are the least (2,443).
-
-
-
-### 3. Average Feedback Score by Course ⭐  
-
-- Compare feedback scores across courses like Python Basics, Machine Learning, and more.  
-- 🌟 ***Highlight***: Python Basics shines with a feedback score of 3.05, while Web Development scores 2.97.
-
-
-
-### 4. Gender Distribution of Students 👩‍🎓👨‍🎓  
-
-- A pie chart breaking down the student population by gender.  
-- ⚖️ ***Breakdown***: 4,886 Female, 4,699 Male, 415 Other.
-
-
-
-### 5. Assignment Completion Rate by Learning Style ✅  
-
-- Bar chart showing completion rates for each learning style.  
-- 🏆 ***Winner: Visual learners top the chart at 69.85%!
-
-
-
-### 6. Average Time on Videos by Course ⏰  
-
-- Check how much time students spend on videos, segmented by education level.  
-- 🎥 ***Notable***: Web Development students spend the most time (261.91 minutes on average).
-
-
-
-### 7. Dropout Rate by Course 🚪  
-
-- See which courses have the highest dropout rates.  
-- ⚠️ ***Alert***: Cybersecurity has the highest dropout at 429 students.
-
-
-
-### 8. Feedback vs Final Score 📈  
-
-- Scatter plot showing the relationship between feedback and final scores.  
-- 🔍 ***Observation***: Most students cluster around a feedback score of 3.00 and final scores between 64.30–65.10.
-
-
-
-### 9. Dropout Rate by Gender 📉  
-
-- Pie chart showing dropout rates by gender.  
-- 📊 ***Stats***: Females at 19.24%, Males at 20.09%, and Other at 17.59%.
-
-
-
-### 10. Learning Style vs Performance 📅  
-
-- Line graph comparing performance across learning styles.  
-- 📈 ***Trend***: Kinesthetic learners show a performance peak!
-
-
-
-### 11. Forum Participation Trends 💬  
-
-- Bar chart showing forum activity by course and gender.  
-- 🗣️ ***Engagement***: Cybersecurity leads with 25,346 male posts, while Web Development has 23,109 female posts.
+- 👥 **Total Students:** 10,000  
+- 🎯 **Average Final Score:** 64.70  
+- ⭐ **Average Feedback Score:** 3.013  
+- 📝 **Average Quiz Score:** 64.58  
+- ⚠️ **Dropout Rate:** 19.57%  
+- ✅ **Average Assignment Completion Rate:** 69.55%
 
 ---
 
-## 🎨 Screenshot:
+## 🛠️ **Dashboard Highlights**
 
-Here’s a glimpse of the dashboard! 🖼️  
-
-**Page 1 Overview**: ![image](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)
-
-**Page 2 Overview**: ![image](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)
-
-**Page 3 Overview**: ![image](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
+Use built-in filters to **customize your view** and analyze learning performance in depth! 🕵️‍♀️
 
 ---
 
-## 🧩 Filters
+## 📊 **Visualizations**
 
-Customize your analysis with these filters:  
-
-
-- 👤 ***Gender***: All, Male, Female, or Other  
-- 📚 ***Course Name***: All, Python Basics, Machine Learning, Data Science, Cybersecurity, Web Development  
-- 🎓 ***Education Level***: All, Undergraduate, High School, Postgraduate
+### 🎓 **1️⃣ Average Quiz Scores by Education Level**  
+- Compares quiz scores for **Undergraduate**, **High School**, and **Postgraduate** students.  
+- 💡 **Insight:** Postgraduate students lead with an average score of **64.74**.
 
 ---
 
-## 📄 Pages
-
-The dashboard is split into multiple pages for a comprehensive view:  
-
-
-- 🟢 ***Page 1***: Core metrics and visualizations (see screenshot above).
-- 🟡 ***Page 2***: Deeper analysis (add screenshot to view).  
-- 🔴 ***Page 3***: Supplementary insights (add screenshot to view).
+### 🧠 **2️⃣ Learning Style Preference Analysis**  
+- Shows learning style breakdown: **Reading/Writing**, **Auditory**, **Visual**, **Kinesthetic**.  
+- 📚 **Fun Fact:** **Reading/Writing** is most common _(2,554 students)_, **Kinesthetic** the least _(2,443)_.
 
 ---
 
-## 🚀 Usage
-
-- ***Open the Dashboard***: Launch the Tableau workbook in Tableau Desktop or Tableau Public. 📂   
-- ***Apply Filters***: Use the dropdowns to filter by Gender, Course Name, or Education Level. 🎛️  
-- ***Navigate Pages***: Switch between Page 1, Page 2, and Page 3 using the buttons. 📑  
-- ***Interact***: Hover over charts for details or click to drill down. 🖱️
+### ⭐ **3️⃣ Average Feedback Score by Course**  
+- Compare feedback for courses like **Python Basics**, **Machine Learning**, etc.  
+- 🌟 **Highlight:** Python Basics tops with **3.05**, Web Development scores **2.97**.
 
 ---
 
-## ⚙️ Requirements
-
-Tableau Desktop or Tableau Public to view and interact with the dashboard.  
-
-The dataset is preloaded in the workbook. To replicate, ensure your dataset includes:  
-
-  - ***Student demographics*** (gender, education level)  
-  - ***Course details*** (quiz scores, feedback scores, time on videos, forum participation)  
-  - ***Performance metrics*** (final scores, assignment completion rates, dropout rates)  
-  - ***Learning style preferences***
+### 👩‍🎓👨‍🎓 **4️⃣ Gender Distribution**  
+- Pie chart of student population by gender.  
+- ⚖️ **Breakdown:** 4,886 Female | 4,699 Male | 415 Other
 
 ---
 
-## 🤝 Contributing
-
-**Love this dashboard?** Fork the repo, enhance it, and submit a pull request! 💡 Suggestions for new visualizations or metrics are always welcome.  
+### ✅ **5️⃣ Assignment Completion Rate by Learning Style**  
+- Bar chart of completion rates per learning style.  
+- 🏆 **Winner:** Visual learners top the chart at **69.85%**!
 
 ---
 
-## 🌟 About Me
+### ⏰ **6️⃣ Average Time on Videos by Course**  
+- Shows time spent on videos, segmented by education level.  
+- 🎥 **Notable:** Web Dev students watch the most: **261.91 mins** avg.
 
-Hi there! I'm **Mohsin Raza**. I’m an aspiring ***Data Analyst/Business Analyst/Data Engineer/BI Developer/SQL Developer***.
+---
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+### 🚪 **7️⃣ Dropout Rate by Course**  
+- Highlights dropout count by course.  
+- ⚠️ **Alert:** Cybersecurity tops with **429 dropouts**.
 
+---
+
+### 📈 **8️⃣ Feedback vs Final Score**  
+- Scatter plot: feedback scores vs final scores.  
+- 🔍 **Observation:** Clustered around feedback **3.00** and final scores **64.30–65.10**.
+
+---
+
+### 📉 **9️⃣ Dropout Rate by Gender**  
+- Pie chart shows dropout by gender.  
+- 📊 **Stats:** Female **19.24%**, Male **20.09%**, Other **17.59%**.
+
+---
+
+### 📅 **🔟 Learning Style vs Performance**  
+- Line chart comparing scores by learning style.  
+- 📈 **Trend:** Kinesthetic learners show a performance peak!
+
+---
+
+### 💬 **1️⃣1️⃣ Forum Participation Trends**  
+- Bar chart: forum posts by course & gender.  
+- 🗣️ **Engagement:** Cybersecurity leads with **25,346 male posts**, Web Dev has **23,109 female posts**.
+
+---
+
+## 🎨 **Dashboard Preview**
+
+See what it looks like: 🖼️  
+
+**Page 1:** ![Page 1](https://github.com/user-attachments/assets/6c0c237f-2737-46ed-a441-53b6f246abad)  
+**Page 2:** ![Page 2](https://github.com/user-attachments/assets/f00d1805-49c4-422d-b978-6081c6ce9be4)  
+**Page 3:** ![Page 3](https://github.com/user-attachments/assets/ea44b313-feea-434f-9054-64af2ca3a60b)
+
+---
+
+## 🧩 **Filters**
+
+Easily refine your analysis with:  
+- 👤 **Gender:** All, Male, Female, Other  
+- 📚 **Course Name:** All, Python Basics, Machine Learning, Data Science, Cybersecurity, Web Development  
+- 🎓 **Education Level:** All, Undergraduate, High School, Postgraduate
+
+---
+
+## 📄 **Pages**
+
+Your dashboard is split into **3 pages** for easy navigation:  
+- 🟢 **Page 1:** Core metrics & visuals  
+- 🟡 **Page 2:** Deeper insights  
+- 🔴 **Page 3:** Supplementary analysis
+
+---
+
+## 🚀 **How to Use**
+
+1️⃣ **Open:** Use **Tableau Desktop** or **Tableau Public**.  
+2️⃣ **Filter:** Gender, Course Name, Education Level.  
+3️⃣ **Navigate:** Switch pages with the buttons.  
+4️⃣ **Explore:** Hover for tooltips, click to drill down.
+
+---
+
+## ⚙️ **Requirements**
+
+✅ **Tools:** Tableau Desktop or Tableau Public  
+✅ **Dataset should include:**  
+- Student demographics _(gender, education level)_  
+- Course details _(quiz, feedback, video time, forum)_  
+- Performance _(final score, assignment rate, dropout)_  
+- Learning style preferences
+
+---
+
+## 🤝 **Contributing**
+
+⭐ *Like this dashboard?* Fork the repo, enhance it, and send a **pull request**!  
+New ideas and improvements are always welcome. 💡
+
+---
+
+## 🌟 **About Me**
+
+Hi! I’m **Mohsin Raza** — aspiring **Data Analyst | BI Developer | Data Engineer | SQL Developer**.
+
+📬 **Let’s connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
+
+✨ *If you like this, please star the repo!*
